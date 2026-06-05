@@ -21,7 +21,7 @@ Aplicação web de leitura da bíblia desenvolvida com o framework React. O proj
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/josemello26/app-biblia.git
 2. no terminal execute o comando **npm install**
 3. no arquivo .env.example, mude o caminho da url da variável VITE_API_BASE_URL para **https://6a205b8fe96c1d13b5876129.mockapi.io/api/biblia** e renomeie o arquivo para **.env**
 4. Execute a aplicação via terminal na raiz do projeto:
